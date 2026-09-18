@@ -55,3 +55,8 @@ Pattern Atlas is independent from CML, Repo Darla, Glass House, and any private 
 ## License
 
 MIT. Copyright 2026 Sherrie Joseph.
+
+
+## Inspiration
+
+Brian Foo’s public work on visualizing human relationships and memory helped inspire the idea of a time-based relationship map. Pattern Atlas is an independent, local-first implementation; it does not use Brian Foo’s code, assets, or templates, and he is not affiliated with this project.
