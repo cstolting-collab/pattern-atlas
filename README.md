@@ -54,7 +54,7 @@ Pattern Atlas is independent from CML, Repo Darla, Glass House, and any private 
 
 ## License
 
-MIT. Copyright 2026 Sherrie Joseph.
+MIT. Copyright 2026 S.J.
 
 
 ## Inspiration
